@@ -1,0 +1,80 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 70px 100px 0px 100px;
+}
+nav ul{
+    display: flex;
+}
+nav ul li{
+    list-style: none;
+    margin: 0px 20px;
+}
+.sp1{
+    margin: 35px 100px 0px 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.divp1{
+    display: flex;
+    justify-content: space-between;
+}
+.divp1 h2{
+    font-weight: 900;
+    font-size: 48px;
+}
+.idiv p{
+margin-top: 10px;
+margin-right: 15px;
+font-size: 14px;
+}
+.idiv form button{
+    letter-spacing: 5px;
+    padding: 14px 33px;
+    border: none;
+    color: white;
+    background-color: rgb(241, 112, 112);
+}
+.idiv2{
+    color: white;
+    padding: 0px 30px;
+    background-color:rgb(12, 9, 32);
+    margin-right: 14px;
+}
+.idiv2 h2{
+    color: goldenrod;
+    font-size: 40px;
+    font-weight: 500;
+}
+.idiv2 p{
+   margin-top: 5px;
+}
+.s2{
+    margin: 25px 100px 0px 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.ddi{
+    display: flex;
+    margin-right: 27px;
+}
+.ddi img{
+    height: 18vh;
+}
+.ddd{
+    margin-left: 35px;
+}
+.ddd h2{
+    font-size: 30px;
+    opacity:calc(0.5);
+}
+.ddd p{
+    padding-top: 2px;
+    line-height: 23px;
+    font-size: 14px;
+}
